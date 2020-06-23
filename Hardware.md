@@ -6,6 +6,7 @@
 - Resistor
 - Jumpers macho x fêmea
 - Protoboard
+- Cartão MicroSD
 
 ## Esquema elétrico:
 - LED(positivo) - Resistor
